@@ -8,4 +8,6 @@
 ## Acknowledgement,
  I would like to thank online resources and communities that have supported my learning journey in web development.
    feel free to explore the repository and provide feedback!
+
+    ![preview of the website](C:\Users\ELIZABETH\Documents\whatsApp images\chuck taylor.jpg)
    
