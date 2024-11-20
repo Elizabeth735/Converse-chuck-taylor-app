@@ -9,5 +9,8 @@
  I would like to thank online resources and communities that have supported my learning journey in web development.
    feel free to explore the repository and provide feedback!
 
+
+   ![chuck taylor](https://github.com/user-attachments/assets/d994b5d9-a502-4f96-b77f-615c48e98cd6)
+
     
    
